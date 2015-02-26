@@ -236,7 +236,7 @@
               <properties name="title" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.0"/>
               <properties name="reportType" value="column" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.1"/>
               <properties name="reportId" value="2" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.2"/>
-              <properties name="timeGranularity" value="WEEKLY" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.3"/>
+              <properties name="timeGranularity" value="MONTHLY" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.3"/>
               <properties name="modelName" value="xtct_getmemberdata_initiate_staless_ds_outputs" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.4"/>
               <properties name="typeName" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.5"/>
               <properties name="categoryID" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.6"/>
@@ -303,7 +303,7 @@
               <properties xsi:type="uitemplate:ArrayProperty" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.41"/>
               <properties xsi:type="uitemplate:ArrayProperty" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.42"/>
               <properties name="slaColorList" value="#363636" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.43"/>
-              <properties name="timeFilter" value="2" type="INTEGER" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.44"/>
+              <properties name="timeFilter" value="1" type="INTEGER" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.44"/>
               <properties name="HOURLY" value="1" type="INTEGER" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.45"/>
               <properties name="DAILY" value="1" type="INTEGER" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.46"/>
               <properties name="WEEKLY" value="1" type="INTEGER" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.47"/>
@@ -321,7 +321,7 @@
               <properties name="requiredUserInputsNames" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.55"/>
               <properties name="requiredUserInputsLabels" value="" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.56"/>
               <properties name="slaForegroundColor" value="#FFFFFF" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.57"/>
-              <properties name="columnChartStyle" value="false" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.58"/>
+              <properties name="columnChartStyle" value="true" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.58"/>
               <properties name="columnPanelWidth" value="400" type="INTEGER" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.59"/>
               <properties name="columnPanelHeight" value="350" type="INTEGER" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.60"/>
               <properties name="xcpId" value="column_line_chart" entry="//@rootContainer/@children.0/@children.0/@children.0/@children.1/@children.0/@propertyMap.61"/>
