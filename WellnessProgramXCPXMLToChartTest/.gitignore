@@ -1,0 +1,10 @@
+#.gitignore
+/XMLToChartTest/configuration
+/XMLToChartTest/gen
+/XMLToChartTest/META-INF
+/XMLToChartTest/target
+/XMLToChartTest/index
+/XMLToChartTest/generatedresources
+/XMLToChartTest/runapp.log
+
+

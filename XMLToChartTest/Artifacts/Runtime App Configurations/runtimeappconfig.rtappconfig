@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rtappconfig:RuntimeAppConfig xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:rtappconfig="http://www.emc.com/xcp2/2010/rtappconfig" urn="urn:xtct:com.emc.xcp.artifact.rtappconfig:Artifacts/Runtime App Configurations/runtimeappconfig.rtappconfig" categoryId="com.emc.xcp.artifact.rtappconfig" name="runtimeappconfig" label="runtimeappconfig">
+  <defaultHomePage href="urn:xtct:com.emc.xcp.artifact.page:Artifacts/Pages/member_performance.page#/"/>
+  <customTheme name="Clear Blue" path="C:\Users\dmadmin\.m2\repository\com\emc\xcp\ui\xcp-clear-blue-theme\2.2.0000.0001\xcp-clear-blue-theme-2.2.0000.0001.jar" cssFile="eztheme.scss"/>
+  <appTitle exprStr="XMLToChartTest"/>
+  <defaultHomePageExpression/>
+  <objectIdExpression/>
+</rtappconfig:RuntimeAppConfig>
